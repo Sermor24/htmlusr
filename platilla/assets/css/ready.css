@@ -2092,7 +2092,7 @@ body {
   z-index: 1;
   color: #f2f2f2;
   font-weight: 200;
-  background-color: #A57EBF;
+  background-color: #BC79D9;
   background-size: cover;
   background-position: center center;
   border-right: 1px solid #eee;
@@ -2211,7 +2211,7 @@ body {
 }
 .sidebar .nav .nav-item a:hover, .sidebar .nav .nav-item a:focus {
   text-decoration: none;
-  background: #fbfbfb;
+  background: #A57EBF;
 }
 .sidebar .nav .nav-item:hover a:before {
   background: #1d7af3;
