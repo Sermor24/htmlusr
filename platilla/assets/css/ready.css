@@ -2106,6 +2106,15 @@ body {
   border-bottom: 1px solid #eee;
   display: block;
 }
+
+.sidebar .user a {
+  color: #f2f2f2
+}
+
+.sidebar .user #collapseExample a:hover {
+  background: #A57EBF;
+}
+
 .sidebar .user .photo {
   width: 40px;
   height: 40px;
@@ -6132,13 +6141,11 @@ body {
   border-color: #23CCEF !important;
 }
 
-.btn-success {
+.btn {
   background: #F2DC99  !important;
-  border-color: #59d05d !important;
 }
-.btn-success:hover, .btn-success:focus, .btn-success:disabled {
+.btn:hover, .btn:focus, .btn:disabled {
   background: #F2F2F2 !important;
-  border-color: #59d05d !important;
   color: #777;
 }
 
@@ -6184,11 +6191,6 @@ body {
 .btn-info.btn-border {
   color: #23CCEF !important;
   border: 2px solid #23CCEF !important;
-}
-
-.btn-success.btn-border {
-  color: #59d05d !important;
-  border: 2px solid #59d05d !important;
 }
 
 .btn-warning.btn-border {
