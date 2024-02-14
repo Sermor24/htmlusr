@@ -6133,12 +6133,13 @@ body {
 }
 
 .btn-success {
-  background: #59d05d !important;
+  background: #F2DC99  !important;
   border-color: #59d05d !important;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:disabled {
-  background: #59d05d !important;
+  background: #F2F2F2 !important;
   border-color: #59d05d !important;
+  color: #777;
 }
 
 .btn-warning {
